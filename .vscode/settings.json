@@ -53,5 +53,10 @@
             "fileMatch": ["keymap.json"],
             "url": "./data/schemas/keymap.jsonschema"
         }
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#233216",
+        "titleBar.activeBackground": "#31461F",
+        "titleBar.activeForeground": "#F8FBF5"
+    }
 }
